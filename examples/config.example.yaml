@@ -1,0 +1,10 @@
+blocklist:
+  - robloxplayerbeta.exe
+  - steam.exe
+  - fortniteclient-win64-shipping.exe
+pin_store: ~/.config/rdcontrol/pins.json
+child_time_allowance_minutes: 90
+telegram_bot_token: "123456:ABC-DEF"
+telegram_parent_chat_ids:
+  - 123456789
+  - 987654321
